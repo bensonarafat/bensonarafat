@@ -5,4 +5,4 @@
 [![Twitter: Benson Arafat](https://img.shields.io/twitter/follow/bensonarafat?style=social)](https://twitter.com/bensonarafat)
 [![Medium Badge](https://img.shields.io/badge/-@Benson%20Arafat-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@bensonarafat)](https://medium.com/@bensonarafat)
   
-I’m a cross-platform and iOS mobile engineer, passionate about building immersive experiences, creating technical content, and contributing to open-source projects. Feel free to email me or connect on LinkedIn—I'd love to chat!
+I’m an iOS and cross-platform mobile engineer, passionate about building immersive experiences, creating technical content, and contributing to open-source projects. Feel free to email me or connect on LinkedIn—I'd love to chat!
